@@ -132,40 +132,7 @@ This repository includes the **mandatory hands-on exercises** completed as part 
 
 ---
 
-## Repository Structure
 
-```text
-DN5-Java-FSE-HandsOns
-│
-├── Week-1
-│   ├── Design-Patterns-Principles
-│   └── Data-Structures-Algorithms
-│
-├── Week-2
-│   ├── PLSQL
-│   └── JUnit-Mockito-SLF4J
-│
-├── Week-3
-│   ├── Spring-Core-Maven
-│   └── Spring-Data-JPA-Hibernate
-│
-├── Week-4
-│   ├── Spring-REST
-│   └── SonarQube
-│
-├── Week-5
-│   └── Microservices
-│
-├── Week-6
-│   └── React
-│
-├── Week-7
-│   └── React-Advanced
-│
-└── README.md
-```
-
----
 
 ## Technologies Used
 
