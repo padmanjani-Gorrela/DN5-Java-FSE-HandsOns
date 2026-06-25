@@ -1,0 +1,29 @@
+Scenario 1
+
+===== Monthly Statements =====
+
+Customer : John Doe
+Transaction ID : 1
+Amount : ₹200
+Type : Deposit
+
+Customer : Jane Smith
+Transaction ID : 2
+Amount : ₹300
+Type : Withdrawal
+
+------------------------------------
+
+Scenario 2
+
+Annual Fee Deducted From Account : 1
+
+Annual Fee Deducted From Account : 2
+
+------------------------------------
+
+Scenario 3
+
+Interest Updated For Loan : 1
+
+Interest Updated For Loan : 2

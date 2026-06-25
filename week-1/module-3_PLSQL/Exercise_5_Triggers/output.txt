@@ -1,0 +1,31 @@
+Scenario 1
+
+Customer Updated
+
+LastModified Updated Automatically
+
+---------------------------------------
+
+Scenario 2
+
+Transaction Inserted
+
+Audit Log Created Successfully
+
+---------------------------------------
+
+Scenario 3
+
+Withdrawal Successful
+
+OR
+
+Error
+
+Insufficient Balance
+
+OR
+
+Error
+
+Deposit Amount Must Be Positive

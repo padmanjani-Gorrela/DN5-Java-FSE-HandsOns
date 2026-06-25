@@ -1,0 +1,33 @@
+Scenario 1
+
+CalculateAge('1985-05-15')
+
+Result
+
+40 Years
+
+------------------------------------
+
+Scenario 2
+
+Loan Amount : 100000
+
+Interest : 8%
+
+Duration : 5 Years
+
+Monthly Installment
+
+₹2166.67
+
+------------------------------------
+
+Scenario 3
+
+Account Balance = ₹10000
+
+Required Amount = ₹7000
+
+Result
+
+TRUE

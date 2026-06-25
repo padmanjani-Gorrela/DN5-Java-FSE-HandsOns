@@ -1,0 +1,17 @@
+Scenario 1
+
+Customer Added Successfully
+
+Customer Balance Updated
+
+-----------------------------------
+
+Scenario 2
+
+Employee Salary Updated
+
+-----------------------------------
+
+Scenario 3
+
+Fund Transfer Successful
