@@ -1,0 +1,39 @@
+Product Added Successfully
+
+Product Added Successfully
+
+Product Added Successfully
+
+Product ID : 101
+Product Name : Dell Inspiron
+Quantity : 15
+Price : ₹65000.0
+------------------------
+
+Product ID : 102
+Product Name : Wireless Mouse
+Quantity : 50
+Price : ₹1200.0
+------------------------
+
+Product ID : 103
+Product Name : Mechanical Keyboard
+Quantity : 25
+Price : ₹3500.0
+------------------------
+
+Product Updated Successfully
+
+Product Deleted Successfully
+
+Product ID : 102
+Product Name : Wireless Mouse
+Quantity : 60
+Price : ₹1300.0
+------------------------
+
+Product ID : 103
+Product Name : Mechanical Keyboard
+Quantity : 25
+Price : ₹3500.0
+------------------------

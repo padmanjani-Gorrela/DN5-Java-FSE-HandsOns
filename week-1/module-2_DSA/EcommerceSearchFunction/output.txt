@@ -1,0 +1,11 @@
+===== Linear Search =====
+
+Product ID : 108
+Product Name : Keyboard
+Category : Electronics
+
+===== Binary Search =====
+
+Product ID : 108
+Product Name : Keyboard
+Category : Electronics
