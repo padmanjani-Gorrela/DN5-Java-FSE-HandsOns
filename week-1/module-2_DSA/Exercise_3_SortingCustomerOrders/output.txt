@@ -1,0 +1,43 @@
+===== Bubble Sort =====
+
+Order ID : 102
+Customer : Anjali
+Total Price : ₹3200.0
+
+Order ID : 105
+Customer : Vikram
+Total Price : ₹5100.0
+
+Order ID : 104
+Customer : Sneha
+Total Price : ₹6800.0
+
+Order ID : 101
+Customer : Rahul
+Total Price : ₹8500.0
+
+Order ID : 103
+Customer : Kiran
+Total Price : ₹15000.0
+
+===== Quick Sort =====
+
+Order ID : 102
+Customer : Anjali
+Total Price : ₹3200.0
+
+Order ID : 105
+Customer : Vikram
+Total Price : ₹5100.0
+
+Order ID : 104
+Customer : Sneha
+Total Price : ₹6800.0
+
+Order ID : 101
+Customer : Rahul
+Total Price : ₹8500.0
+
+Order ID : 103
+Customer : Kiran
+Total Price : ₹15000.0
