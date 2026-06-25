@@ -1,0 +1,6 @@
+Log: Application Started
+Log: User Logged In
+
+Logger1 HashCode : 258952499
+Logger2 HashCode : 258952499
+The hashcode is same so only one Logger instance exists.

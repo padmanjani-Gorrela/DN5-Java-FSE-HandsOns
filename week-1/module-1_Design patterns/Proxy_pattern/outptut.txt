@@ -1,0 +1,8 @@
+Image selected.
+
+First Display:
+Loading Vacation_Photo.jpg from Cloud Server...
+Displaying Vacation_Photo.jpg
+
+Second Display:
+Displaying Vacation_Photo.jpg

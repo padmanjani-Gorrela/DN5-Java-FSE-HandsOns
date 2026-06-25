@@ -1,0 +1,3 @@
+Google Pay processed ?2500.0
+PhonePe processed ?1800.0
+Paytm processed ?3200.0
